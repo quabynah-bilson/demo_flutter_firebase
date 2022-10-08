@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "1048710249305",
+    "project_id": "q-blood-bank",
+    "storage_bucket": "q-blood-bank.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048710249305:android:56cd4b9aba08b24c236a48",
+        "android_client_info": {
+          "package_name": "com.example.bloodapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048710249305-hhseup09eiknpcbf3rfebi5nepudh1k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_uKneBHFR0oYvpBghpiJuIODBWBsldA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048710249305-hhseup09eiknpcbf3rfebi5nepudh1k3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048710249305-q7kuvjmnk1cnf38e937hkr9u68cl14pf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bloodapp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048710249305:android:bfd07c0718270ce4236a48",
+        "android_client_info": {
+          "package_name": "com.example.demo_flutter_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048710249305-hhseup09eiknpcbf3rfebi5nepudh1k3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS_uKneBHFR0oYvpBghpiJuIODBWBsldA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048710249305-hhseup09eiknpcbf3rfebi5nepudh1k3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1048710249305-q7kuvjmnk1cnf38e937hkr9u68cl14pf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.bloodapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
